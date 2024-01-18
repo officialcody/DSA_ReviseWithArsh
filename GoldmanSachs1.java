@@ -1,5 +1,5 @@
 /**
- * QUES 1 -> Minimize the maximum of two arrays
+ * QUES 1 -> Minimize the maximum of two arrays (LEETCODE - 2513)
  * 
  * Company - Goldman Sachs 
  * 
