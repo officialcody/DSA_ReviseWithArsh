@@ -1,3 +1,6 @@
+/**
+ * Places the maximum element to the correct position first.
+ */
 public class Solution {
     public static void bubbleSort(int[] arr, int n) {
         for(int i=n-1;i>=1;i--) {
