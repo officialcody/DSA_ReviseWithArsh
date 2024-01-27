@@ -1,5 +1,5 @@
 /**
- * QUES 8 -> Finding consecutive integers from a data stream (LEETCODE - 2526)
+ * QUES 9 -> Finding consecutive integers from a data stream (LEETCODE - 2526)
  * 
  * Company - Goldman Sachs 
  * 
